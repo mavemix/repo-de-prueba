@@ -1,2 +1,4 @@
 Este es el archivo de ayuda
-Y esta es la linea dos desde consola
+Escribimos la linea 2 de la ayuda
+
+Resuelto el conflicto desde github
